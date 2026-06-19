@@ -4,7 +4,7 @@ const links = ["About", "Services", "Projects"];
 
 const socialMediaLinks = [
   { iconName: "logo-linkedin", link: "https://www.linkedin.com/in/mohgad/" },
-  { iconName: "mail", link: "mailto:muhammadgadwork@gmail.com" },
+  { iconName: "mail", link: "mailto:gad.software.engineer@gmail.com" },
   { iconName: "call", link: "tel:+201069429820" },
   { iconName: "send", link: "https://t.me/mohgad" },
   {
